@@ -1,0 +1,20 @@
+---NEW MAPS---
+Transfagarasan
+Okutama?
+Tail of the dragon?
+EuroRing
+Willow Springs?
+
+---REPLACE MAPS/TEXTURES---
+Akagi Pass > Sinakagi (retextured)
+Rokko > Rokko (Old Textures)
+SinMyogi > SinMyogi (retextured)
+SAkina > SAkina (retextured)
+SinMyogi > SinMyogi (retextured)
+Bihoku > Bihoku (make objects from security fence/barrier and cones)
+Usui > Usui (retextured)
+Irohazaka (Narrow Autumn) > Irohazaka (normal) (try to find new version)
+Okaru > Okaru (retextured) ?
+Meihan > New Meihan / EuroRing
+Autopolis > Autopolis (retextured)
+Spain Rally > Willow Springs?
