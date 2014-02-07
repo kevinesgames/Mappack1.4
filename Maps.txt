@@ -17,3 +17,9 @@ Okaru > Okaru (retextured) ?
 Meihan > New Meihan / EuroRing
 Autopolis > Autopolis (retextured)
 Spain Rally > Willow Springs?
+
+
+---OTHERS---
+ROKKO -> get rid of unwanted texture on the side (the woods)
+REDRING -> make the road as road and make grass feel like grass
+NAKAYUBI -> make the road as road and make grass feel like grass
