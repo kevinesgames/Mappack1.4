@@ -1,0 +1,4 @@
+---SHHADA---
+January 2014	- Updated the "Old Irohazaka" textures to green grass and normal road.
+February 2014	- Updated "Rokko" textures to the old version.
+9 February 2014	- Updated "Usui" textures to the Retexture version by Bigajuu.
