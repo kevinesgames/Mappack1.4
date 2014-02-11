@@ -4,7 +4,13 @@ Okutama?
 Tail of the dragon?
 EuroRing
 Willow Springs?
-
+Nagano 
+Shibuya
+Tokyo Slum
+Tokyo Commercial
+Snow Rally
+Akihabara
+Initial D Parking Lot
 ---REPLACE MAPS/TEXTURES---
 Akagi Pass > Sinakagi (retextured)
 Rokko > Rokko (Old Textures)
@@ -18,7 +24,7 @@ Meihan > New Meihan / EuroRing
 Autopolis > Autopolis (retextured)
 Spain Rally > Willow Springs?
 Robada Pass > Robada Pass (retextured) (make m from scratch)
-
+Akihabara > Light
 
 ---OTHERS---
 ROKKO -> get rid of unwanted texture on the side (the woods)
