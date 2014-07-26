@@ -1,0 +1,36 @@
+---NEW MAPS---
+* Transfagarasan
+Okutama?
+Tail of the dragon?
+EuroRing
+Willow Springs?
+Nagano 
+Shibuya
+Tokyo Slum
+Tokyo Commercial
+Snow Rally
+Akihabara
+Tokyo ( Please Read the read me on the rar)
+Initial D Parking Lot
+Nagao (needs to be converted)
+
+---REPLACE MAPS/TEXTURES---
+Akagi Pass > Sinakagi (retextured)
+* Rokko > Rokko (Old Textures)
+* SinMyogi > SinMyogi (retextured)
+* Bihoku > Bihoku (make objects from security fence/barrier and cones)
+* Usui > Usui (retextured)
+* Irohazaka (Narrow Autumn) > Irohazaka (normal) (try to find new version)
+* Okaru > Okaru (retextured) ?
+* Autopolis > Autopolis (retextured)
+* Ebisu East > Ebisu East (retextured)
+Meihan > New Meihan / EuroRing
+Spain Rally > Willow Springs?
+Robada Pass > Robada Pass (retextured) (make m from scratch)
+Akihabara > Light
+
+
+---OTHERS---
+ROKKO -> get rid of unwanted texture on the side (the woods) and no trees
+REDRING -> make the road as road and make grass feel like grass
+NAKAYUBI -> make the road as road and make grass feel like grass
