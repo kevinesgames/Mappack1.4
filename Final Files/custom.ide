@@ -125,16 +125,16 @@ objs
 19758, lodmyogi7, myogitxd, 350, 0
 19759, lodmyogi8, myogitxd, 350, 0
 19760, lodmyogi9, myogitxd, 350, 0
-19761, rally_1, rallytxd, 300, 0
-19762, rally_2, rallytxd, 300, 0
-19763, rally_3, rallytxd, 300, 0
-19764, rally_4, rallytxd, 300, 0
-19765, rally_5, rallytxd, 300, 0
-19766, rally_6, rallytxd, 300, 0
-19767, rally_7, rallytxd, 300, 0
-19768, rally_8, rallytxd, 300, 0
-19769, rally_9, rallytxd, 300, 0
-19770, rally_10, rallytxd, 300, 0
+19761, okutama1, okutamatxd, 299, 0
+19762, okutama2, okutamatxd, 299, 0
+19763, okutama3, okutamatxd, 299, 0
+19764, okutama4, okutamatxd, 299, 0
+19765, okutama5, okutamatxd, 299, 0
+19766, okutama6, okutamatxd, 299, 0
+19767, okutama7, okutamatxd, 299, 0
+19768, okutama8, okutamatxd, 299, 0
+19769, okutama9, okutamatxd, 299, 0
+19770, okutama10, okutamatxd, 299, 0
 19771, taka01, takatxd, 300, 0
 19772, taka02, takatxd, 300, 0
 19773, taka03, takatxd, 300, 0
@@ -445,6 +445,7 @@ objs
 19479, tran10, tran, 299, 128
 19480, tran11, tran, 299, 128
 19481, tran12, tran, 299, 128
+
 19502, rokko00, rokko, 300, 2097157
 19503, rklod00, rklod, 700, 2097156
 19504, rokko01, rokko, 300, 2097157
@@ -574,6 +575,7 @@ objs
 19330, tokyohighway28, tokyohighwaytxd, 300.0, 2097153
 19331, tokyohighway29, tokyohighwaytxd, 300.0, 2097153
 19332, tokyohighway30, tokyohighwaytxd, 300.0, 2097153
+
 end
 tobj
 end
