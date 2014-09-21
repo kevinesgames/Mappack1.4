@@ -253,8 +253,8 @@ objs
 19878, lodebisuland1, ebisulandtxd, 350, 0
 19879, lodebisuland2, ebisulandtxd, 350, 0
 19880, lodebisuland3, ebisulandtxd, 350, 0
-#
-#
+19881, gokart1, gokart, 299 , 0
+19882, gokart2, gokart, 299 , 0
 19884, iroh1, irohtxd, 1, 0
 19885, iroh2, irohtxd, 1, 0
 19886, iroh3, irohtxd, 1, 0
@@ -605,6 +605,7 @@ objs
 19334, odaiba1, odaiba, 300, 0
 19335, odaiba2, odaiba, 300, 0
 19336, odaiba3, odaiba, 300, 0
+
 end
 tobj
 end
