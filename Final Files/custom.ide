@@ -606,6 +606,22 @@ objs
 19335, odaiba2, odaiba, 300, 0
 19336, odaiba3, odaiba, 300, 0
 
+18631, kanagawa1, kanagawa, 299, 0
+18632, kanagawa2, kanagawa, 299, 0
+18633, kanagawa3, kanagawa, 299, 0
+18634, kanagawa4, kanagawa, 299, 0
+18635, kanagawa5, kanagawa, 299, 0
+18636, kanagawa6, kanagawa, 299, 0
+18637, kanagawa7, kanagawa, 299, 0
+18638, kanagawa8, kanagawa, 299, 0
+18639, kanagawa9, kanagawa, 299, 0
+18640, meihan1, meihan, 299, 0
+18641, meihan2, meihan, 299, 0
+18642, meihan3, meihan, 299, 0
+18643, meihan4, meihan, 299, 0
+18644, meihan5, meihan, 299, 0
+18645, meihan6, meihan, 299, 0
+
 end
 tobj
 end

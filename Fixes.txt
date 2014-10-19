@@ -1,0 +1,11 @@
+Meihan Fixes
+- scrape wall: road as bugs, can drop a wheel in it
+- long drift corner: make excessive back texture feel like riding on traintracks
+- tree textures: need to be 2sided (only got half trees now)
+- road: gives tree and scratch textures edges and makes u see through them
+
+
+Kanagawa Fixes
+- railing above wall texture: need fix / inspection
+- need to add couple of roadsigns, barriers, cones etc for roads that lead to nothing
+- optional: add buildings / something else. something creative to really finish the map.
