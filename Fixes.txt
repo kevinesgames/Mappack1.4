@@ -9,3 +9,4 @@ Kanagawa Fixes
 - railing above wall texture: need fix / inspection
 - need to add couple of roadsigns, barriers, cones etc for roads that lead to nothing
 - optional: add buildings / something else. something creative to really finish the map.
+- http://gyazo.com/1471462b825ae10f170b30105c5dbd05 i took the inside of the corner and hit something invisible.
